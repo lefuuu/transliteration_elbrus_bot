@@ -1,0 +1,11 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @transliteration_elbrus_bot id=7109123020 - 'Транслитератор бот'
+INFO:root:345230441 : Ilia Tyshchenko отправил ы
+INFO:root:345230441 ввел ы и получил Y
+INFO:aiogram.event:Update id=548030357 is handled. Duration 1329 ms by bot id=7109123020
+INFO:root:345230441 : Ilia Tyshchenko отправил АГА
+INFO:root:345230441 ввел АГА и получил AGA
+INFO:aiogram.event:Update id=548030358 is handled. Duration 287 ms by bot id=7109123020
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @transliteration_elbrus_bot id=7109123020 - 'Транслитератор бот'
+INFO:aiogram.dispatcher:Polling stopped
